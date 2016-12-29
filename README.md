@@ -1,5 +1,7 @@
 #[Bot-Sis]
 
-*About
-
-Typeshed contains external type annotations for the Python standard library and Python builtins, as well as third party packages.
+Install Python:
+https://www.python.org/
+<hr>
+Run Script In Command Line
+> python run.py
