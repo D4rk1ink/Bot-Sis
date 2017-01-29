@@ -2,7 +2,7 @@
 
 Install Python : https://www.python.org/
 <hr>
-<b>Config PSU Passport</b>
+Config PSU Passport
 ```
 info = {
             'id' : '##PSU PASSPORT##', #EXAMPLE '5xxxxxxxxx'
@@ -11,7 +11,7 @@ info = {
             'year' : '##YEAR##', #EXAMPLE '2559'
         }
 ```
-<b>Config Subject</b>
+Config Subject
 ```
 subject = {
     'id' : '##SUBJECT ID##', #EXAMPLE '140-452'
